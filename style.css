@@ -1,1 +1,32 @@
+body{
+    background-color: rgb(167, 187, 187);
+    color:rgb(0, 0, 0) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin: 50;
+    font-family: "Handjet", sans-serif;
+    font-size: 38px;
+    
+    
+}
+
+button  {
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    font-size: 25px;
+    font-family: "New Amsterdam", sans-serif;;
+}
+
+
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display:block;
+}
+
 
